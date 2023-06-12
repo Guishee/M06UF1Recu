@@ -1,0 +1,44 @@
+<llistacompra>
+  <article>
+        <descripcio>Manzana</descripcio>
+        <quantitat>2.0</quantitat>
+        <unitat>Unidades</unitat>
+        <seccio>Alimentacion</seccio>
+        <precio>5.0</precio>
+  </article>
+  <article>
+        <descripcio>Camiseta con logo NIKE</descripcio>
+        <quantitat>1.0</quantitat>
+        <unitat>unidad</unitat>
+        <seccio>Ropa</seccio>
+        <precio>20.0</precio>
+  </article>
+  <article>
+        <descripcio>Botella de agua FontDor</descripcio>
+        <quantitat>3.0</quantitat>
+        <unitat>unidad</unitat>
+        <seccio>Bebidas</seccio>
+        <precio>3.0</precio>
+  </article>
+  <article>
+        <descripcio>Bebida artesanal</descripcio>
+        <quantitat>2.0</quantitat>
+        <unitat>litros</unitat>
+        <seccio>Bebidas</seccio>
+        <precio>15.0</precio>
+  </article>
+  <article>
+        <descripcio>Zapatos NY</descripcio>
+        <quantitat>2.0</quantitat>
+        <unitat>un par</unitat>
+        <seccio>Calzado</seccio>
+        <precio>50.0</precio>
+  </article>
+  <article>
+        <descripcio>Silla de jardin</descripcio>
+        <quantitat>2.0</quantitat>
+        <unitat>unidad</unitat>
+        <seccio>muebles</seccio>
+        <precio>96.0</precio>
+  </article>
+</llistacompra>
